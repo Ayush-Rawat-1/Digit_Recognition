@@ -1,4 +1,4 @@
-# Digit Recognition Using CNN
+# Handwritten Digit Recognition Using CNN
 
 ## Overview
 
