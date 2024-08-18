@@ -1,4 +1,4 @@
-# Digit Recognition Using CNN and Pygame
+# Digit Recognition Using CNN
 
 ## Overview
 
