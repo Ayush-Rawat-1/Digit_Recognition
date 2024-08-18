@@ -42,14 +42,14 @@ The CNN model used for digit recognition includes the following layers:
 1. Clone the repository:
 
 bash
-git clone https://github.com/Ayush-Rawat-1/Digit_Recognition/
+git clone https://github.com/Ayush-Rawat-1/Digit_Recognition.git
 cd Digit_Recognition
 
 
 2. Run the digit recognition script:
 
 bash
-python digit_recognition.py
+python app.py
 
 
 3. A Pygame window will open where you can draw a digit using your mouse.
@@ -71,11 +71,3 @@ python digit_recognition.py
 ## Contributing
 
 Contributions are welcome! If you have ideas for improvements or have found a bug, please feel free to submit an issue or a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-This README provides a comprehensive overview of your project, guiding users on how to set up, run, and understand your digit recognition application.
