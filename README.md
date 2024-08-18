@@ -42,8 +42,8 @@ The CNN model used for digit recognition includes the following layers:
 1. Clone the repository:
 
 bash
-git clone <repository_url>
-cd <repository_folder>
+git clone https://github.com/Ayush-Rawat-1/Digit_Recognition/
+cd Digit_Recognition
 
 
 2. Run the digit recognition script:
